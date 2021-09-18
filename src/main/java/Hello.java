@@ -3,6 +3,6 @@ public class Hello {
         System.out.println("Hello");
         System.out.println("Developing hello feature");
         System.out.println("Local Repo is already published in Github");
-        System.out.println("doin more work");
+        System.out.println("doing more work");
     }
 }
